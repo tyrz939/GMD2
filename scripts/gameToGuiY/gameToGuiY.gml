@@ -1,0 +1,1 @@
+return ((global.playAreaStartY + argument0) * drawGame.__xyOffset) / drawGame.__guiScale

@@ -1,0 +1,356 @@
+Converting GML script: ${project_dir}\scripts\draw_image\draw_image.gml
+Converted description /// @description draw_image(image,subimg,x,y)/// @function draw_image
+/// @param image
+/// @param subimg
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\draw_image_ext\draw_image_ext.gml
+Converted description /// @description draw_image_ext(image,subimg,x,y,xscale,yscale,rot,colour,alpha)/// @function draw_image_ext
+/// @param image
+/// @param subimg
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param rot
+/// @param colour
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_general\draw_image_general.gml
+Converted description /// @description draw_image_general(sprite,subimg,left,top,width,height,x,y,xscale,yscale,rot,c1,c2,c3,c4,alpha)/// @function draw_image_general
+/// @param sprite
+/// @param subimg
+/// @param left
+/// @param top
+/// @param width
+/// @param height
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param rot
+/// @param c1
+/// @param c2
+/// @param c3
+/// @param c4
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_part\draw_image_part.gml
+Converted description /// @description draw_image_part(sprite,subimg,left,top,width,height,x,y)/// @function draw_image_part
+/// @param sprite
+/// @param subimg
+/// @param left
+/// @param top
+/// @param width
+/// @param height
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\draw_image_part_ext\draw_image_part_ext.gml
+Converted description /// @description draw_image_part_ext(sprite,subimg,left,top,width,height,x,y,xscale,yscale,colour,alpha)/// @function draw_image_part_ext
+/// @param sprite
+/// @param subimg
+/// @param left
+/// @param top
+/// @param width
+/// @param height
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param colour
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_pos\draw_image_pos.gml
+Converted description /// @description draw_image_pos(sprite,subimg,x1,y1,x2,y2,x3,y3,x4,y4,alpha)/// @function draw_image_pos
+/// @param sprite
+/// @param subimg
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param x3
+/// @param y3
+/// @param x4
+/// @param y4
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_pos_ext\draw_image_pos_ext.gml
+Converted description /// @description draw_image_pos_ext(sprite,subimg,x1,y1,x2,y2,x3,y3,x4,y4,rot,col,alpha)/// @function draw_image_pos_ext
+/// @param sprite
+/// @param subimg
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param x3
+/// @param y3
+/// @param x4
+/// @param y4
+/// @param rot
+/// @param col
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_pos_general\draw_image_pos_general.gml
+Converted description /// @description draw_image_pos_general(sprite,subimg,x1,y1,x2,y2,x3,y3,x4,y4,rot,c1,c2,c3,c4,alpha)/// @function draw_image_pos_general
+/// @param sprite
+/// @param subimg
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param x3
+/// @param y3
+/// @param x4
+/// @param y4
+/// @param rot
+/// @param c1
+/// @param c2
+/// @param c3
+/// @param c4
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_stretched\draw_image_stretched.gml
+Converted description /// @description draw_image_stretched(sprite,subimg,x,y,w,h)/// @function draw_image_stretched
+/// @param sprite
+/// @param subimg
+/// @param x
+/// @param y
+/// @param w
+/// @param h
+
+Converting GML script: ${project_dir}\scripts\draw_image_stretched_ext\draw_image_stretched_ext.gml
+Converted description /// @description draw_image_stretched_ext(sprite,subimg,x,y,w,h,colour,alpha)/// @function draw_image_stretched_ext
+/// @param sprite
+/// @param subimg
+/// @param x
+/// @param y
+/// @param w
+/// @param h
+/// @param colour
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_tiled\draw_image_tiled.gml
+Converted builtin - line 14: view_wview[ view_current ] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 15: view_hview[ view_current ] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description draw_image_tiled(image,subimg,x,y)/// @function draw_image_tiled
+/// @param image
+/// @param subimg
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\draw_image_tiled_area\draw_image_tiled_area.gml
+Converted description /// @description draw_image_tiled_area(image,subimg,x1,y1,x2,y2)/// @function draw_image_tiled_area
+/// @param image
+/// @param subimg
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+
+Converting GML script: ${project_dir}\scripts\draw_image_tiled_area_ext\draw_image_tiled_area_ext.gml
+Converted description /// @description draw_image_tiled_area_ext(image,subimg,x1,y1,x2,y2,xscale,yscale,colour,alpha)/// @function draw_image_tiled_area_ext
+/// @param image
+/// @param subimg
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param xscale
+/// @param yscale
+/// @param colour
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_image_tiled_ext\draw_image_tiled_ext.gml
+Converted builtin - line 14: view_wview[ view_current ] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 15: view_hview[ view_current ] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description draw_image_tiled_ext(sprite,subimg,x,y,xscale,yscale,colour,alpha)/// @function draw_image_tiled_ext
+/// @param sprite
+/// @param subimg
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param colour
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\image_stream_start\image_stream_start.gml
+Converted description /// @description image_stream_start(group,tex_page_width,tex_page_height,tex_offset)/// @function image_stream_start
+/// @param group
+/// @param tex_page_width
+/// @param tex_page_height
+/// @param tex_offset
+
+Converting GML script: ${project_dir}\scripts\image_stream_finish\image_stream_finish.gml
+Converted description /// @description image_stream_finish(group)/// @function image_stream_finish
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_stream_finish_clamp\image_stream_finish_clamp.gml
+Converted description /// @description image_stream_finish_clamp(group) - Gets rid of empty space on sprites, not suggested for sprites that require it/// @function image_stream_finish_clamp
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_stream_add\image_stream_add.gml
+Converted description /// @description image_stream_add(group,identifier,fname,subimg,xorig,yorig)/// @function image_stream_add
+/// @param group
+/// @param identifier
+/// @param fname
+/// @param subimg
+/// @param xorig
+/// @param yorig
+
+Converting GML script: ${project_dir}\scripts\image_stream_add_3d\image_stream_add_3d.gml
+Converted description /// @description image_stream_add_3d(group,identifier,fname,subimg,xorig,yorig)/// @function image_stream_add_3d
+/// @param group
+/// @param identifier
+/// @param fname
+/// @param subimg
+/// @param xorig
+/// @param yorig
+
+Converting GML script: ${project_dir}\scripts\image_stream_progress\image_stream_progress.gml
+Converted description /// @description image_stream_progress(group)/// @function image_stream_progress
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_stream_receive\image_stream_receive.gml
+Converted description /// @description image_stream_receive(group)/// @function image_stream_receive
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_stream_is_active\image_stream_is_active.gml
+Converted description /// @description image_stream_is_active(group)/// @function image_stream_is_active
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_stream_is_received\image_stream_is_received.gml
+Converted description /// @description image_stream_is_received(group)/// @function image_stream_is_received
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_cache_create\image_cache_create.gml
+Converted description /// @description image_cache_create( group )/// @function image_cache_create
+/// @param  group
+
+Converting GML script: ${project_dir}\scripts\image_cache_save\image_cache_save.gml
+Converted description /// @description image_cache_save(cache,fname)/// @function image_cache_save
+/// @param cache
+/// @param fname
+
+Converting GML script: ${project_dir}\scripts\image_cache_load\image_cache_load.gml
+Converted description /// @description image_cache_load(fname)/// @function image_cache_load
+/// @param fname
+
+Converting GML script: ${project_dir}\scripts\image_cache_delete\image_cache_delete.gml
+Converted description /// @description image_cache_delete(cache)/// @function image_cache_delete
+/// @param cache
+
+Converting GML script: ${project_dir}\scripts\image_cache_unpack\image_cache_unpack.gml
+Converted description /// @description image_cache_unpack( group , cache )/// @function image_cache_unpack
+/// @param  group 
+/// @param  cache
+
+Converting GML script: ${project_dir}\scripts\image_group_clear\image_group_clear.gml
+Converted description /// @description image_group_clear(group)/// @function image_group_clear
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_group_create\image_group_create.gml
+Converted description /// @description image_group_create(name)/// @function image_group_create
+/// @param name
+
+Converting GML script: ${project_dir}\scripts\image_group_destroy\image_group_destroy.gml
+Converted description /// @description image_group_destroy(group)/// @function image_group_destroy
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_group_find_image\image_group_find_image.gml
+Converted description /// @description image_group_find_image(group,identifier)/// @function image_group_find_image
+/// @param group
+/// @param identifier
+
+Converting GML script: ${project_dir}\scripts\image_group_exists\image_group_exists.gml
+Converted description /// @description image_group_exists(group)/// @function image_group_exists
+/// @param group
+
+Converting GML script: ${project_dir}\scripts\image_get_filename\image_get_filename.gml
+Converted description /// @description image_get_filename(ind)/// @function image_get_filename
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_number\image_get_number.gml
+Converted description /// @description image_get_number(ind)/// @function image_get_number
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_identifier\image_get_identifier.gml
+Converted description /// @description image_get_identifier(ind)/// @function image_get_identifier
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_width\image_get_width.gml
+Converted description /// @description image_get_width(ind)/// @function image_get_width
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_height\image_get_height.gml
+Converted description /// @description image_get_height(ind)/// @function image_get_height
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_xoffset\image_get_xoffset.gml
+Converted description /// @description image_get_xoffset(ind)/// @function image_get_xoffset
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_yoffset\image_get_yoffset.gml
+Converted description /// @description image_get_yoffset(ind)/// @function image_get_yoffset
+/// @param ind
+
+Converting GML script: ${project_dir}\scripts\image_get_uvs\image_get_uvs.gml
+Converted description /// @description image_get_uvs(spr,subimg)/// @function image_get_uvs
+/// @param spr
+/// @param subimg
+
+Converting GML script: ${project_dir}\scripts\image_set_offset\image_set_offset.gml
+Converted description /// @description image_set_offset(ind,xoffset,yoffset)/// @function image_set_offset
+/// @param ind
+/// @param xoffset
+/// @param yoffset
+
+Converting GML script: ${project_dir}\scripts\image_get_texturepage\image_get_texturepage.gml
+Converted description /// @description image_get_texturepage(sprite,subimg)/// @function image_get_texturepage
+/// @param sprite
+/// @param subimg
+
+Converting GML script: ${project_dir}\scripts\image_get_texture\image_get_texture.gml
+Converted description /// @description image_get_texture(sprite,subimg)/// @function image_get_texture
+/// @param sprite
+/// @param subimg
+
+Converting GML script: ${project_dir}\scripts\image_system_init\image_system_init.gml
+Converted description /// @description image_system_init()/// @function image_system_init
+
+Converting GML script: ${project_dir}\scripts\image_system_cleanup\image_system_cleanup.gml
+Converted description /// @description image_system_cleanup()/// @function image_system_cleanup
+
+Converting GML script: ${project_dir}\scripts\image_exists\image_exists.gml
+Converted description /// @description image_exists(image)/// @function image_exists
+/// @param image
+
+Converting GML script: ${project_dir}\scripts\image_save\image_save.gml
+Converted description /// @description image_save(ind,subimg,fname)/// @function image_save
+/// @param ind
+/// @param subimg
+/// @param fname
+
+Converting GML script: ${project_dir}\scripts\image_save_strip\image_save_strip.gml
+Converted description /// @description image_save_strip(ind,fname)/// @function image_save_strip
+/// @param ind
+/// @param fname
+
+Added compatibility script 'background/background_add.gml'
+Added compatibility script 'background/background_assign.gml'
+Added compatibility script 'background/background_create_colour.gml'
+Added compatibility script 'background/background_create_from_surface.gml'
+Added compatibility script 'background/background_delete.gml'
+Added compatibility script 'background/background_get_height.gml'
+Added compatibility script 'background/background_get_texture.gml'
+Added compatibility script 'background/background_get_width.gml'
+Added compatibility script 'background/background_save.gml'
+Added compatibility script 'background/draw_background_general.gml'
+Added compatibility script 'background/draw_background_part.gml'
+Added compatibility script 'background/draw_background_part_ext.gml'
+Added compatibility script 'draw/gpu_set_blendenable.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'

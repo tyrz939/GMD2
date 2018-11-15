@@ -1,0 +1,21 @@
+Converting GML script: ${project_dir}\scripts\tf_init\tf_init.gml
+Converted description /// @description  tf_init();/// @function  tf_init
+
+Converting GML script: ${project_dir}\scripts\texture_set_filtering\texture_set_filtering.gml
+Converted description /// @description  texture_set_filtering( filtering type );/// @function  texture_set_filtering
+/// @param  filtering type
+
+Converting GML script: ${project_dir}\scripts\texture_set_filtering_ext\texture_set_filtering_ext.gml
+Converted description /// @description  texture_set_filtering_ext( filtering type, sampler index );/// @function  texture_set_filtering_ext
+/// @param  filtering type
+/// @param  sampler index
+
+Converting GML script: ${project_dir}\scripts\texture_set_filtering_ext_f\texture_set_filtering_ext_f.gml
+Converted description /// @description  texture_set_filtering_ext_f( filtering type, sampler index, filterType );/// @function  texture_set_filtering_ext_f
+/// @param  filtering type
+/// @param  sampler index
+/// @param  filterType
+
+Converting GML script: ${project_dir}\scripts\texture_set_anisotropy\texture_set_anisotropy.gml
+Converted description /// @description  texture_set_anisotropy( level )/// @function  texture_set_anisotropy
+/// @param  level

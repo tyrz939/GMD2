@@ -1,0 +1,11 @@
+scriptName = Template
+scriptDescription = Template Script
+scriptAuther = GMD2 Dev
+scriptFile = template.lua
+
+gameWidth = 640
+gameHeight = 480
+windowWidth = 1280
+windowHeight = 960
+guiWidth = 1280
+guiHeight = 960

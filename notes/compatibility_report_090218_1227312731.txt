@@ -1,0 +1,18 @@
+Converting GML script: nsfs.gml
+Converted description /// @description  ()/// @function
+
+Converting GML script: nsfs.gml
+Converted description /// @description  (path):/// @function  
+/// @param path
+
+Converting GML script: nsfs.gml
+Converted description /// @description  (buffer, path):/// @function  
+/// @param buffer
+/// @param  path
+
+Converting GML script: nsfs.gml
+Converted description /// @description  (buffer, path, offset, size):/// @function  
+/// @param buffer
+/// @param  path
+/// @param  offset
+/// @param  size

@@ -1,0 +1,1 @@
+game.yaw = argument[0]

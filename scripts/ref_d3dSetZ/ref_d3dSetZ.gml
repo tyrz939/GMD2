@@ -1,0 +1,1 @@
+game.zz = argument[0]

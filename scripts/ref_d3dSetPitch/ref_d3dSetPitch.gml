@@ -1,0 +1,1 @@
+game.pitch = argument[0]

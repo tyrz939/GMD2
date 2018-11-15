@@ -1,0 +1,15 @@
+Converting GML script: ${project_dir}\scripts\strict_init\strict_init.gml
+Converted description /// @description strict_init(data file)/// @function strict_init
+/// @param data file
+
+Converting GML script: ${project_dir}\scripts\strict_compress\strict_compress.gml
+Converted description /// @description strict_compress(input)/// @function strict_compress
+/// @param input
+
+Converting GML script: ${project_dir}\scripts\strict_encode_verb\strict_encode_verb.gml
+Converted description /// @description strict_encode_verb(verb)/// @function strict_encode_verb
+/// @param verb
+
+Converting GML script: ${project_dir}\scripts\strict_decompress\strict_decompress.gml
+Converted description /// @description strict_decompress(input)/// @function strict_decompress
+/// @param input

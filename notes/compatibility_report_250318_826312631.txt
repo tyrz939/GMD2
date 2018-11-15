@@ -1,0 +1,21 @@
+Converting GML script: buffer_zlib.gml
+Converted description /// @description  ()/// @function
+
+Converting GML script: buffer_zlib.gml
+Converted description /// @description  (buffer, offset, size, compression_level[1..9], ?out_buffer): Compresses a part of a buffer to a new or given buffer./// @function  
+/// @param buffer
+/// @param  offset
+/// @param  size
+/// @param  compression_level[1..9]
+/// @param  ?out_buffer
+
+Converting GML script: buffer_zlib.gml
+Converted description /// @description  (buffer, offset, size, ?out_buffer): Decompresses a part of a buffer to a new or given buffer./// @function  
+/// @param buffer
+/// @param  offset
+/// @param  size
+/// @param  ?out_buffer
+
+!!! Font fnt_zlib_test uses a font (Ubuntu Condensed SemiItalic) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\obj_zlib_test\Draw_0.gml
+Converted string - line 3: '[1] Compress#[2] Decompress' -> "[1] Compress#[2] Decompress"

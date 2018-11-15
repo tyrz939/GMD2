@@ -1,0 +1,3 @@
+@ECHO OFF
+START GMD2.exe -debug
+EXIT

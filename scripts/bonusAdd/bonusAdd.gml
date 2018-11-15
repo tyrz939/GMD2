@@ -1,0 +1,1 @@
+game.bonusScore += argument0
